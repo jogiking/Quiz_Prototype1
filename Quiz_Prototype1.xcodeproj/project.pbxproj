@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		5FD8C15027F2986C009EBA48 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FD8C14F27F2986C009EBA48 /* AppDelegate.swift */; };
-		5FD8C15227F2986C009EBA48 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FD8C15127F2986C009EBA48 /* SceneDelegate.swift */; };
 		5FD8C15427F2986C009EBA48 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FD8C15327F2986C009EBA48 /* ViewController.swift */; };
 		5FD8C15727F2986C009EBA48 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FD8C15527F2986C009EBA48 /* Main.storyboard */; };
 		5FD8C15927F2986F009EBA48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5FD8C15827F2986F009EBA48 /* Assets.xcassets */; };
@@ -21,7 +20,6 @@
 /* Begin PBXFileReference section */
 		5FD8C14C27F2986C009EBA48 /* Quiz_Prototype1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quiz_Prototype1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FD8C14F27F2986C009EBA48 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5FD8C15127F2986C009EBA48 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		5FD8C15327F2986C009EBA48 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5FD8C15627F2986C009EBA48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5FD8C15827F2986F009EBA48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -63,7 +61,6 @@
 			isa = PBXGroup;
 			children = (
 				5FD8C14F27F2986C009EBA48 /* AppDelegate.swift */,
-				5FD8C15127F2986C009EBA48 /* SceneDelegate.swift */,
 				5FD8C15327F2986C009EBA48 /* ViewController.swift */,
 				5FD8C15527F2986C009EBA48 /* Main.storyboard */,
 				5FD8C15827F2986F009EBA48 /* Assets.xcassets */,
@@ -152,7 +149,6 @@
 				5FD8C16627F2B9A8009EBA48 /* QuizCVCell.swift in Sources */,
 				5FD8C16427F29FD9009EBA48 /* QuizVC.swift in Sources */,
 				5FD8C15027F2986C009EBA48 /* AppDelegate.swift in Sources */,
-				5FD8C15227F2986C009EBA48 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
